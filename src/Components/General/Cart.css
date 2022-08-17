@@ -1,0 +1,13 @@
+.Cart {
+  max-width: 90rem;
+  background-color: white;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  border-radius: 1.4rem;
+}
+.MovieArea {
+  margin-top: 2rem;
+}
